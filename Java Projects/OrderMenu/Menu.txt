@@ -1,0 +1,27 @@
+Coca-Cola
+Beverages
+10
+
+Hamburger
+Main Course
+65
+
+Steak
+Main Course
+100
+
+Fried Potatoes
+Appetizer
+25
+
+Chocolate Cake
+Dessert
+35
+
+Sprite
+Beverages
+10
+
+Green Beans
+Appetizer
+25
