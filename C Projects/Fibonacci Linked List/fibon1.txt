@@ -1,0 +1,12 @@
+This program gets a natural number n from the user, makes a fibonacci circular linked-list, prints and saves it to a file:
+Entered: 10
+55
+34
+21
+13
+8
+5
+3
+2
+1
+1
